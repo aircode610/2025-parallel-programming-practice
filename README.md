@@ -1,3 +1,5 @@
+# Amirali Iranmanesh
+
 # Parallel Programming Practice
 
 This repo contains tasks as part of the 2025 Advanced Algorithms & Data Structures course.
